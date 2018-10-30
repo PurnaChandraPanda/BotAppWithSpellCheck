@@ -1,0 +1,59 @@
+E:\case\AmitChaurasia\BotAppWithSpellCheck\BotAppWithSpellCheck\bin\Bot Application.dll.config
+E:\case\AmitChaurasia\BotAppWithSpellCheck\BotAppWithSpellCheck\bin\Bot Application.dll
+E:\case\AmitChaurasia\BotAppWithSpellCheck\BotAppWithSpellCheck\bin\Bot Application.pdb
+E:\case\AmitChaurasia\BotAppWithSpellCheck\BotAppWithSpellCheck\bin\Autofac.dll
+E:\case\AmitChaurasia\BotAppWithSpellCheck\BotAppWithSpellCheck\bin\Chronic.dll
+E:\case\AmitChaurasia\BotAppWithSpellCheck\BotAppWithSpellCheck\bin\Microsoft.Bot.Builder.Autofac.dll
+E:\case\AmitChaurasia\BotAppWithSpellCheck\BotAppWithSpellCheck\bin\Microsoft.Bot.Builder.dll
+E:\case\AmitChaurasia\BotAppWithSpellCheck\BotAppWithSpellCheck\bin\Microsoft.Bot.Connector.dll
+E:\case\AmitChaurasia\BotAppWithSpellCheck\BotAppWithSpellCheck\bin\Microsoft.IdentityModel.Logging.dll
+E:\case\AmitChaurasia\BotAppWithSpellCheck\BotAppWithSpellCheck\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+E:\case\AmitChaurasia\BotAppWithSpellCheck\BotAppWithSpellCheck\bin\Microsoft.IdentityModel.Protocols.dll
+E:\case\AmitChaurasia\BotAppWithSpellCheck\BotAppWithSpellCheck\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\case\AmitChaurasia\BotAppWithSpellCheck\BotAppWithSpellCheck\bin\Microsoft.IdentityModel.Tokens.dll
+E:\case\AmitChaurasia\BotAppWithSpellCheck\BotAppWithSpellCheck\bin\Microsoft.Rest.ClientRuntime.dll
+E:\case\AmitChaurasia\BotAppWithSpellCheck\BotAppWithSpellCheck\bin\Microsoft.WindowsAzure.Configuration.dll
+E:\case\AmitChaurasia\BotAppWithSpellCheck\BotAppWithSpellCheck\bin\Newtonsoft.Json.dll
+E:\case\AmitChaurasia\BotAppWithSpellCheck\BotAppWithSpellCheck\bin\System.IdentityModel.Tokens.Jwt.dll
+E:\case\AmitChaurasia\BotAppWithSpellCheck\BotAppWithSpellCheck\bin\System.Net.Http.Formatting.dll
+E:\case\AmitChaurasia\BotAppWithSpellCheck\BotAppWithSpellCheck\bin\System.Web.Http.dll
+E:\case\AmitChaurasia\BotAppWithSpellCheck\BotAppWithSpellCheck\bin\System.Web.Http.WebHost.dll
+E:\case\AmitChaurasia\BotAppWithSpellCheck\BotAppWithSpellCheck\bin\Autofac.xml
+E:\case\AmitChaurasia\BotAppWithSpellCheck\BotAppWithSpellCheck\bin\Microsoft.Bot.Builder.pdb
+E:\case\AmitChaurasia\BotAppWithSpellCheck\BotAppWithSpellCheck\bin\Microsoft.Bot.Builder.xml
+E:\case\AmitChaurasia\BotAppWithSpellCheck\BotAppWithSpellCheck\bin\Microsoft.Bot.Builder.Autofac.pdb
+E:\case\AmitChaurasia\BotAppWithSpellCheck\BotAppWithSpellCheck\bin\Microsoft.Bot.Builder.Autofac.xml
+E:\case\AmitChaurasia\BotAppWithSpellCheck\BotAppWithSpellCheck\bin\Microsoft.Bot.Connector.xml
+E:\case\AmitChaurasia\BotAppWithSpellCheck\BotAppWithSpellCheck\bin\Microsoft.IdentityModel.Logging.xml
+E:\case\AmitChaurasia\BotAppWithSpellCheck\BotAppWithSpellCheck\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+E:\case\AmitChaurasia\BotAppWithSpellCheck\BotAppWithSpellCheck\bin\Microsoft.IdentityModel.Protocols.xml
+E:\case\AmitChaurasia\BotAppWithSpellCheck\BotAppWithSpellCheck\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+E:\case\AmitChaurasia\BotAppWithSpellCheck\BotAppWithSpellCheck\bin\Microsoft.IdentityModel.Tokens.xml
+E:\case\AmitChaurasia\BotAppWithSpellCheck\BotAppWithSpellCheck\bin\Microsoft.WindowsAzure.Configuration.xml
+E:\case\AmitChaurasia\BotAppWithSpellCheck\BotAppWithSpellCheck\bin\Newtonsoft.Json.xml
+E:\case\AmitChaurasia\BotAppWithSpellCheck\BotAppWithSpellCheck\bin\System.IdentityModel.Tokens.Jwt.xml
+E:\case\AmitChaurasia\BotAppWithSpellCheck\BotAppWithSpellCheck\bin\System.Net.Http.Formatting.xml
+E:\case\AmitChaurasia\BotAppWithSpellCheck\BotAppWithSpellCheck\bin\System.Web.Http.xml
+E:\case\AmitChaurasia\BotAppWithSpellCheck\BotAppWithSpellCheck\bin\System.Web.Http.WebHost.xml
+E:\case\AmitChaurasia\BotAppWithSpellCheck\BotAppWithSpellCheck\bin\ar\Microsoft.Bot.Builder.resources.dll
+E:\case\AmitChaurasia\BotAppWithSpellCheck\BotAppWithSpellCheck\bin\cs\Microsoft.Bot.Builder.resources.dll
+E:\case\AmitChaurasia\BotAppWithSpellCheck\BotAppWithSpellCheck\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+E:\case\AmitChaurasia\BotAppWithSpellCheck\BotAppWithSpellCheck\bin\el\Microsoft.Bot.Builder.resources.dll
+E:\case\AmitChaurasia\BotAppWithSpellCheck\BotAppWithSpellCheck\bin\en\Microsoft.Bot.Builder.resources.dll
+E:\case\AmitChaurasia\BotAppWithSpellCheck\BotAppWithSpellCheck\bin\es\Microsoft.Bot.Builder.resources.dll
+E:\case\AmitChaurasia\BotAppWithSpellCheck\BotAppWithSpellCheck\bin\fa\Microsoft.Bot.Builder.resources.dll
+E:\case\AmitChaurasia\BotAppWithSpellCheck\BotAppWithSpellCheck\bin\fr\Microsoft.Bot.Builder.resources.dll
+E:\case\AmitChaurasia\BotAppWithSpellCheck\BotAppWithSpellCheck\bin\it\Microsoft.Bot.Builder.resources.dll
+E:\case\AmitChaurasia\BotAppWithSpellCheck\BotAppWithSpellCheck\bin\ja\Microsoft.Bot.Builder.resources.dll
+E:\case\AmitChaurasia\BotAppWithSpellCheck\BotAppWithSpellCheck\bin\nl\Microsoft.Bot.Builder.resources.dll
+E:\case\AmitChaurasia\BotAppWithSpellCheck\BotAppWithSpellCheck\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
+E:\case\AmitChaurasia\BotAppWithSpellCheck\BotAppWithSpellCheck\bin\ru\Microsoft.Bot.Builder.resources.dll
+E:\case\AmitChaurasia\BotAppWithSpellCheck\BotAppWithSpellCheck\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+E:\case\AmitChaurasia\BotAppWithSpellCheck\BotAppWithSpellCheck\obj\Release\BotAppWithSpellCheck.csproj.CoreCompileInputs.cache
+E:\case\AmitChaurasia\BotAppWithSpellCheck\BotAppWithSpellCheck\obj\Release\BotAppWithSpellCheck.csproj.CopyComplete
+E:\case\AmitChaurasia\BotAppWithSpellCheck\BotAppWithSpellCheck\obj\Release\Bot Application.dll
+E:\case\AmitChaurasia\BotAppWithSpellCheck\BotAppWithSpellCheck\obj\Release\Bot Application.pdb
+E:\case\AmitChaurasia\BotAppWithSpellCheck\BotAppWithSpellCheck\bin\Microsoft.Azure.CognitiveServices.Language.SpellCheck.dll
+E:\case\AmitChaurasia\BotAppWithSpellCheck\BotAppWithSpellCheck\bin\Microsoft.Rest.ClientRuntime.Azure.dll
+E:\case\AmitChaurasia\BotAppWithSpellCheck\BotAppWithSpellCheck\bin\Microsoft.Rest.ClientRuntime.xml
+E:\case\AmitChaurasia\BotAppWithSpellCheck\BotAppWithSpellCheck\bin\Microsoft.Rest.ClientRuntime.Azure.xml
